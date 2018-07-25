@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8f49ef9-de57-4107-9d6c-e4e704816004" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/koans/4-AboutMutability.js" beforeDir="false" afterPath="$PROJECT_DIR$/koans/4-AboutMutability.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/koans/5-AboutHigherOrderFunctions.js" beforeDir="false" afterPath="$PROJECT_DIR$/koans/5-AboutHigherOrderFunctions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/6-AboutInheritance.js" beforeDir="false" afterPath="$PROJECT_DIR$/koans/6-AboutInheritance.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/7-AboutApplyingWhatWeHaveLearnt.js" beforeDir="false" afterPath="$PROJECT_DIR$/koans/7-AboutApplyingWhatWeHaveLearnt.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -65,20 +66,28 @@
       <file leaf-file-name="5-AboutHigherOrderFunctions.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/koans/5-AboutHigherOrderFunctions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="122" column="27" lean-forward="true" selection-start-line="122" selection-start-column="27" selection-end-line="122" selection-end-column="27" />
+            <state relative-caret-position="664">
+              <caret line="125" selection-start-line="125" selection-end-line="125" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="6-AboutInheritance.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/koans/6-AboutInheritance.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" column="50" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="7-AboutApplyingWhatWeHaveLearnt.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/koans/7-AboutApplyingWhatWeHaveLearnt.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -94,6 +103,8 @@
         <option value="$PROJECT_DIR$/koans/2-AboutFunctions.js" />
         <option value="$PROJECT_DIR$/koans/3-AboutObjects.js" />
         <option value="$PROJECT_DIR$/koans/4-AboutMutability.js" />
+        <option value="$PROJECT_DIR$/koans/6-AboutInheritance.js" />
+        <option value="$PROJECT_DIR$/koans/7-AboutApplyingWhatWeHaveLearnt.js" />
         <option value="$PROJECT_DIR$/koans/5-AboutHigherOrderFunctions.js" />
       </list>
     </option>
@@ -166,16 +177,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531355718650</updated>
-      <workItem from="1531355719886" duration="22143000" />
+      <workItem from="1531355719886" duration="25383000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22143000" />
+    <option name="totallyTimeSpent" value="25383000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1388889" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -231,12 +241,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/koans/7-AboutApplyingWhatWeHaveLearnt.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/koans/6-AboutInheritance.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/koans/4-AboutMutability.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
@@ -244,10 +248,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/koans/6-AboutInheritance.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="50" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/7-AboutApplyingWhatWeHaveLearnt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/koans/5-AboutHigherOrderFunctions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="122" column="27" lean-forward="true" selection-start-line="122" selection-start-column="27" selection-end-line="122" selection-end-column="27" />
+        <state relative-caret-position="664">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
         </state>
       </provider>
     </entry>

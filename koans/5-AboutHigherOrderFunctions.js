@@ -120,7 +120,12 @@ describe("5. About Higher Order Functions", function () {
 
   it("can write your own map function using forEach", function() {
     var myMap = function(arr, func){
-      arr.forEach(func);
+      arr.forEach(function(element, index) {
+        arr[index] = func(element);
+      });
+      // for(var item in arr) {
+      //   arr[item] = func(arr[item]);
+      // }
       return arr;
     };
 
