@@ -40,8 +40,8 @@ describe("4. About Mutability", function() {
   });
 
   // TODO: Ask in class for them to explain this one.  I believe that lines 54-55 are creating new properties on the aPerson object.
-  //       And that lines 63-65 are overriding the getFullName method.  So on line 67, the new getFullName method uses the object properties
-  //       and not the parameters.
+  //       Because the object properties are not set in the constructor (eg, this.firstname = firstname).  And that lines 63-65 are overriding
+  //       the getFullName method.  So on line 67, the new getFullName method uses the object properties and not the parameters.
   it("should know that variables inside a constructor and constructor args are private", function () {
     function Person(firstname, lastname)
     {
